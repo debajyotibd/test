@@ -1,7 +1,11 @@
 dic = {
     name : "paul",
     age : 26,
-    country : "DE"
+    country : "DE",
+    add : [
+        h : "BD",
+        c : "DE"
+    ]
 }
 
 
